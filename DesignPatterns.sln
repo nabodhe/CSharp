@@ -3,11 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{07F4BF1E-5373-4291-AEE7-68F0F639851C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{07F4BF1E-5373-4291-AEE7-68F0F639851C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Singleton", "Singleton", "{FB0C8863-48F5-484B-80A5-94C8EFA07DD0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Singleton", "1.Singleton", "{FB0C8863-48F5-484B-80A5-94C8EFA07DD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonImpl", "SingletonImpl\SingletonImpl.csproj", "{4AD10004-6CF7-4FC7-BACD-AE9A6F1F14EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonImpl", "SingletonImpl\SingletonImpl.csproj", "{4AD10004-6CF7-4FC7-BACD-AE9A6F1F14EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.AbstractFactory", "1.AbstractFactory", "{0FA6A5A7-3BD9-4057-95D0-BB4699F7C1F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryImpl", "AbstractFactoryImpl\AbstractFactoryImpl.csproj", "{BF8B509D-A4B9-411B-9DC2-29C8BC0DC247}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Adapter", "2.Adapter", "{BC7BC6D8-B3DB-4C96-A16D-5718670BEB94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Command", "3.Command", "{83BC35A1-D29C-4B41-A6AA-B29D32B4053D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A3C0D28-6D99-4154-AF6D-BE66CB324B57}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +36,17 @@ Global
 		{4AD10004-6CF7-4FC7-BACD-AE9A6F1F14EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD10004-6CF7-4FC7-BACD-AE9A6F1F14EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AD10004-6CF7-4FC7-BACD-AE9A6F1F14EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8B509D-A4B9-411B-9DC2-29C8BC0DC247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8B509D-A4B9-411B-9DC2-29C8BC0DC247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8B509D-A4B9-411B-9DC2-29C8BC0DC247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8B509D-A4B9-411B-9DC2-29C8BC0DC247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4AD10004-6CF7-4FC7-BACD-AE9A6F1F14EB} = {FB0C8863-48F5-484B-80A5-94C8EFA07DD0}
+		{BF8B509D-A4B9-411B-9DC2-29C8BC0DC247} = {0FA6A5A7-3BD9-4057-95D0-BB4699F7C1F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {930BEEED-F1D6-4C07-91E2-E060E124B6EF}
