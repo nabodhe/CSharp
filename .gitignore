@@ -17,3 +17,6 @@
 /Frameworks_Patterns/DesignPatterns/obj
 /Frameworks_Patterns/SingletonImpl/bin/Debug/netcoreapp3.1
 /Frameworks_Patterns/SingletonImpl/obj
+/Frameworks_Patterns/.vs/DesignPatterns/DesignTimeBuild
+/CSharp_Concepts/TPL_CancellationToken/WinForms/HelloWorld/bin/Debug
+/CSharp_Concepts/TPL_CancellationToken/WinForms/HelloWorld/obj/Debug
