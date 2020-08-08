@@ -20,5 +20,5 @@
 /Frameworks_Patterns/.vs/DesignPatterns/DesignTimeBuild
 /CSharp_Concepts/TPL_CancellationToken/WinForms/HelloWorld/bin/Debug
 /CSharp_Concepts/TPL_CancellationToken/WinForms/HelloWorld/obj/Debug
-/CSharp_Concepts/TPL_CancellationToken/WinForms/HelloWorld/obj/Release
 /.vs
+/CSharp_Concepts/TPL_CancellationToken/WinForms/HelloWorld/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
