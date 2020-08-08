@@ -3,3 +3,11 @@
 ################################################################################
 
 *.suo
+/AbstractFactoryImpl/bin/Debug/netcoreapp3.1
+/.vs/DesignPatterns/DesignTimeBuild
+/AbstractFactoryImpl/obj
+/ConsoleApp1/obj
+/DesignPatterns/bin/Debug/netcoreapp3.1
+/DesignPatterns/obj
+/SingletonImpl/bin/Debug/netcoreapp3.1
+/SingletonImpl/obj
