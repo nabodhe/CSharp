@@ -11,3 +11,9 @@
 /DesignPatterns/obj
 /SingletonImpl/bin/Debug/netcoreapp3.1
 /SingletonImpl/obj
+/Frameworks_Patterns/AbstractFactoryImpl/bin/Debug/netcoreapp3.1
+/Frameworks_Patterns/AbstractFactoryImpl/obj
+/Frameworks_Patterns/DesignPatterns/bin/Debug/netcoreapp3.1
+/Frameworks_Patterns/DesignPatterns/obj
+/Frameworks_Patterns/SingletonImpl/bin/Debug/netcoreapp3.1
+/Frameworks_Patterns/SingletonImpl/obj
